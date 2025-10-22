@@ -1,0 +1,112 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1.2;
+}
+ol { 
+	padding-left: 1.4em;
+	list-style: decimal;
+}
+ul {
+	padding-left: 1.4em;
+	list-style: square;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+} 
+
+.sivtsev
+{
+    margin: 0 auto;
+    font-family: PTSans, Arial, sans-serif;
+}
+.sight01
+{
+    filter: blur(2px);
+    font-size: 4em;
+    text-align: center
+}
+.sight02
+{
+    filter: blur(2px);
+    font-size: 3.5em;
+    text-align: center
+}
+.sight03
+{
+    filter: blur(2px);
+    font-size: 3em;
+    text-align: center
+}
+.sight04
+{
+    filter: blur(2px);
+    font-size: 2.5em;
+    text-align: center
+}
+.sight05
+{
+    filter: blur(2px);
+    font-size: 2em;
+    text-align: center
+}
+.sight06
+{
+    filter: blur(2px);
+    font-size: 1.5em;
+    text-align: center
+}
+.sight07
+{
+    filter: blur(2px);
+    font-size: 1em;
+    text-align: center
+}
+.sight08
+{
+    filter: blur(2px);
+    font-size: 0.9em;
+    text-align: center
+}
+.sight09
+{
+    filter: blur(2px);
+    font-size: 0.8em;
+    text-align: center
+}
+.sight10
+{
+    filter: blur(2px);
+    font-size: 0.7em;
+    text-align: center
+}
+.sight15
+{
+    filter: blur(2px);
+    font-size: 0.6em;
+    text-align: center
+}
+.sight20
+{
+    filter: blur(2px);
+    font-size: 0.5em;
+    text-align: center
+}
+.uline {
+    height: 1px;
+    background-color: red;
+    width: 10%;
+    margin: 5px auto; 
+}
